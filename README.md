@@ -25,4 +25,4 @@ Run in the root of this project to produce an optimised build in the `artifacts`
 
 ## Testing
 
-See [`./tests`](./tests/README.md) for details of the full E2E test using the [`LocalTerra`](https://github.com/terra-money/localterra).
+See [`./tests`](./tests/README.md) for details of the full E2E test.
