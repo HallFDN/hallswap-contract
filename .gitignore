@@ -1,0 +1,14 @@
+# Rust
+.cargo
+artifacts
+target
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# node
+node_modules
